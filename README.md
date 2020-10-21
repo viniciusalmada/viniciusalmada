@@ -1,16 +1,23 @@
-### Hi there 👋
+![capa github](https://github.com/viniciusalmada/viniciusalmada/blob/main/img/cover.png)  
 
-<!--
-**viniciusalmada/viniciusalmada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusalmada&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciusalmada&theme=buefy"/></td>
+    </tr>   
+  </table>
+</center>  
 
-Here are some ideas to get you started:
+### Hello!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Sou graduado em Engenharia Civil e trabalho com desenvolvimento de software, especificamente desenvolvimento mobile para Android.
+
+---
+
+Atualmente estou cursando o mestrado em Estruturas na PUC-Rio, com ênfase em Computação Gráfica Aplicada.
+
+Trabalho como pesquisador no Instituto Tecgraf/PUC-Rio no grupo de Modelagem Geológica de Sistemas Petrolíferos.
+
