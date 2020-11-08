@@ -7,7 +7,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciusalmada&theme=buefy"/>
   </a>
-<div>
+</div>
 
 ### Hello!
 
