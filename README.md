@@ -3,11 +3,12 @@
 <center>
   <table>
     <tr>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusalmada&hide=html&layout=compact&theme=buefy&langs_count=10" />
-      <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciusalmada&theme=buefy"/>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusalmada&hide=html&layout=compact&theme=buefy&langs_count=10" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciusalmada&theme=buefy"/></td>
     </tr>
   </table>
 </center>
+
 
 ### Hello!
 
