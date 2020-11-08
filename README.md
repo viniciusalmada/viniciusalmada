@@ -1,13 +1,13 @@
 ![capa github](https://github.com/viniciusalmada/viniciusalmada/blob/main/img/cover.png)  
 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusalmada&hide=html&layout=compact&theme=buefy&langs_count=10" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciusalmada&theme=buefy"/>
-  </a>
-</div>
+<center>
+  <table>
+    <tr>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusalmada&hide=html&layout=compact&theme=buefy&langs_count=10" />
+      <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciusalmada&theme=buefy"/>
+    </tr>
+  </table>
+</center>
 
 ### Hello!
 
