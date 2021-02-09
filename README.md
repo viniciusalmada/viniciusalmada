@@ -1,24 +1,10 @@
-![capa github](https://github.com/viniciusalmada/viniciusalmada/blob/main/img/cover.png)  
+![capa github](https://github.com/viniciusalmada/viniciusalmada/blob/main/img/resume-1.svg)  
 
-<center>
-  <table>
-    <tr>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusalmada&hide=html&layout=compact&theme=buefy&langs_count=10" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciusalmada&theme=buefy"/></td>
-    </tr>
-  </table>
-</center>
+I'm computation enthusiast...
 
 
-### Hello!
+I discovered programming in the first semester of the Civil Engineering degree. I didn't have a computer and I wanted to create programs for Android device, so I started there to study Android development.
 
----
+I developed some projects for the community of students in my course and also focused on scientific research.
 
-Engenheiro Civil e Desenvolvedor de Software, especificamente para desktop e Android
-
----
-
-Cursando o mestrado em Estruturas na PUC-Rio, com ênfase em Computação Gráfica Aplicada.
-
-Pesquisador no Instituto Tecgraf/PUC-Rio no grupo de Modelagem Geológica de Sistemas Petrolíferos. Utilizando as seguintes tecnologias: OpengGL, C/C++, Estruturas de dados topológicas e algoritmos de Geometria Computacional.
-
+Today, I am a student of the master's degree in Applied Computer Graphics and develop my research at the Tecgraf Institute of PUC / Rio, in the Geological Modeling group.
