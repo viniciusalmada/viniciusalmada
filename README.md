@@ -1,4 +1,4 @@
-![capa github](https://github.com/viniciusalmada/viniciusalmada/blob/main/img/resume-1.svg)  
+![capa github](https://github.com/viniciusalmada/viniciusalmada/blob/main/img/resume-2.svg)  
 
 I'm computation enthusiast...
 
