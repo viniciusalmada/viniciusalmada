@@ -1,5 +1,6 @@
 ![capa github](https://github.com/viniciusalmada/viniciusalmada/blob/main/img/resume-2.svg)
 
+## Social
 <a href="https://www.linkedin.com/in/viniciusalmada" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/vinicius.almada" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/vinicius_devel" target="_blank"><img src="https://img.shields.io/badge/Twitter-%2308A0E9.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
